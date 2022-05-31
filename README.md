@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/-Css3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
